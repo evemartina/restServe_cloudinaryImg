@@ -1,3 +1,3 @@
-# WebServer + RestServer
+# WebServer + RestServer + cloudinary como servidor de imagenes
 
-Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node.
+ejecutar ```npm install``` para reconstruir los módulos de Node.
